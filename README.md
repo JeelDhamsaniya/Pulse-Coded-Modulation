@@ -1,6 +1,6 @@
 # Real-Time Pulse Coded Modulation Visualizer
 
-A web-based tool to visualize the Pulse Code Modulation (PCM) process in real-time. This project demonstrates how an analog signal is sampled, quantized, encoded into binary PCM codes, and reconstructed using Zero-Order Hold (ZOH). It includes interactive charts, a data table, and SNR calculation, making it an excellent resource for learning digital signal processing concepts.
+A web-based tool to visualize the Pulse Coded Modulation (PCM) process in real-time. This project demonstrates how an analog signal is sampled, quantized, encoded into binary PCM codes, and reconstructed using Zero-Order Hold (ZOH). It includes interactive charts, a data table, and SNR calculation, making it an excellent resource for learning digital signal processing concepts.
 
 
 ## Features
