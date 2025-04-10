@@ -1,4 +1,4 @@
-# Real-Time Pulse Code Modulation Visualizer
+# Real-Time Pulse Coded Modulation Visualizer
 
 A web-based tool to visualize the Pulse Code Modulation (PCM) process in real-time. This project demonstrates how an analog signal is sampled, quantized, encoded into binary PCM codes, and reconstructed using Zero-Order Hold (ZOH). It includes interactive charts, a data table, and SNR calculation, making it an excellent resource for learning digital signal processing concepts.
 
@@ -19,10 +19,3 @@ A web-based tool to visualize the Pulse Code Modulation (PCM) process in real-ti
 ## Demo
 
 Try it live: [Link](https://pulse-code-modulation.netlify.app) <!-- Replace with actual link if hosted -->
-
-## Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/jenilsoni01/pulse-code-modulation.git
-   cd pulse-code-modulation
